@@ -1,20 +1,32 @@
-<mxfile host="app.diagrams.net" modified="2021-03-16T09:19:37.847Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="ii8f7Og3G0an-Td2le3_" version="14.4.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-16T09:30:34.954Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="hQNMBfjofHXfToJfS-XF" version="14.4.7" type="github">
   <diagram id="1gaw3KYVfrEE9t1UnBqS" name="Page-1">
-    <mxGraphModel dx="2066" dy="1044" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2066" dy="987" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="pddZnP882KZqoeNhg1tp-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pddZnP882KZqoeNhg1tp-1" target="pddZnP882KZqoeNhg1tp-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pddZnP882KZqoeNhg1tp-1" value="客户端" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pddZnP882KZqoeNhg1tp-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="pddZnP882KZqoeNhg1tp-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="335" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pddZnP882KZqoeNhg1tp-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="pddZnP882KZqoeNhg1tp-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="630" y="285" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pddZnP882KZqoeNhg1tp-1" value="客户端" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="200" y="240" width="180" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="pddZnP882KZqoeNhg1tp-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.07;exitY=0.4;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.006;entryY=0.333;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="pddZnP882KZqoeNhg1tp-4" target="pddZnP882KZqoeNhg1tp-5">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="pddZnP882KZqoeNhg1tp-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.07;exitY=0.4;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="pddZnP882KZqoeNhg1tp-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="381" y="496" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="pddZnP882KZqoeNhg1tp-4" value="神策 A/B 测试服务" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="1">
-          <mxGeometry x="530" y="465" width="180" height="100" as="geometry" />
+          <mxGeometry x="530" y="446" width="220" height="125" as="geometry" />
         </mxCell>
         <mxCell id="pddZnP882KZqoeNhg1tp-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.13;entryY=0.77;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="pddZnP882KZqoeNhg1tp-5" target="pddZnP882KZqoeNhg1tp-4">
           <mxGeometry relative="1" as="geometry" />
@@ -22,7 +34,7 @@
         <mxCell id="pddZnP882KZqoeNhg1tp-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="pddZnP882KZqoeNhg1tp-5" target="pddZnP882KZqoeNhg1tp-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pddZnP882KZqoeNhg1tp-5" value="服务端" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pddZnP882KZqoeNhg1tp-5" value="服务端" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="200" y="475" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="pddZnP882KZqoeNhg1tp-6" value="" style="endArrow=classic;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="pddZnP882KZqoeNhg1tp-1">
@@ -31,20 +43,26 @@
             <mxPoint x="250" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pddZnP882KZqoeNhg1tp-7" value="用户发生A/B试验场景" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="150" width="130" height="20" as="geometry" />
+        <mxCell id="pddZnP882KZqoeNhg1tp-7" value="1. 用户发生A/B试验场景" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="80" y="150" width="170" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="pddZnP882KZqoeNhg1tp-9" value="请求服务端" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="390" width="80" height="20" as="geometry" />
+        <mxCell id="pddZnP882KZqoeNhg1tp-9" value="2. 请求服务端" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="140" y="390" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="pddZnP882KZqoeNhg1tp-12" value="调用试验分流接口" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="545" width="110" height="20" as="geometry" />
+        <mxCell id="pddZnP882KZqoeNhg1tp-12" value="3. 调用试验分流接口" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="395" y="545" width="140" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="pddZnP882KZqoeNhg1tp-14" value="返回试验结果" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="475" width="90" height="20" as="geometry" />
+        <mxCell id="pddZnP882KZqoeNhg1tp-14" value="4. 返回试验结果" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="405" y="475" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="pddZnP882KZqoeNhg1tp-16" value="返回试验结果" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="390" width="90" height="20" as="geometry" />
+        <mxCell id="pddZnP882KZqoeNhg1tp-16" value="5. 返回试验结果" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="340" y="390" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pddZnP882KZqoeNhg1tp-22" value="7. 根据试验变量进行具体试验" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="335" y="150" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pddZnP882KZqoeNhg1tp-24" value="6. 使用神策 SDK 上报 $AbtestTrigger 事件" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="380" y="250" width="280" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
