@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-24T10:31:15.181Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="rmvBdjayu1Grrz05_ocU" version="14.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-24T10:32:09.629Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="VCC4HBzmQ2ZGj8hzpOSg" version="14.4.8" type="github">
   <diagram id="ThlrZkA30SDTjPKkjioO" name="Page-1">
     <mxGraphModel dx="2916" dy="2144" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -111,12 +111,12 @@
             <mxPoint x="770" y="-6" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hw8DBv2O61N8G5n0_Wx0-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;exitPerimeter=0;" edge="1" parent="1" source="hw8DBv2O61N8G5n0_Wx0-55" target="hw8DBv2O61N8G5n0_Wx0-20">
+        <mxCell id="hw8DBv2O61N8G5n0_Wx0-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.2;exitY=0.672;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;exitPerimeter=0;" edge="1" parent="1" source="hw8DBv2O61N8G5n0_Wx0-55" target="hw8DBv2O61N8G5n0_Wx0-20">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="710" y="-46" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="720" />
-              <mxPoint x="110" />
+              <mxPoint x="734" y="20" />
+              <mxPoint x="110" y="20" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -132,8 +132,8 @@
         <mxCell id="hw8DBv2O61N8G5n0_Wx0-51" value="用户属性同步" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="325" y="370" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="hw8DBv2O61N8G5n0_Wx0-53" value="事件上报" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="405" y="-20" width="70" height="20" as="geometry" />
+        <mxCell id="hw8DBv2O61N8G5n0_Wx0-53" value="AB 事件上报" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="395" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="hw8DBv2O61N8G5n0_Wx0-55" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.intune.device_group;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="720" y="-61" width="70" height="61" as="geometry" />
