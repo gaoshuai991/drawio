@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-24T09:59:53.079Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="iux6vIo4P801vQL3AKFl" version="14.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-24T10:07:06.864Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="KNQLtsGKB_KrBBU_YouF" version="14.7.2" type="github">
   <diagram id="EHLDbaasvdHuROu6LPL8" name="Page-1">
     <mxGraphModel dx="946" dy="505" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -7,14 +7,20 @@
         <mxCell id="79HNaMcw1xXRvjRhfOUa-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wiki.factorio.com/images/thumb/Iron_plate.png/32px-Iron_plate.png;" vertex="1" parent="1">
           <mxGeometry x="220" y="230" width="32" height="32" as="geometry" />
         </mxCell>
+        <mxCell id="79HNaMcw1xXRvjRhfOUa-46" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="79HNaMcw1xXRvjRhfOUa-3" target="79HNaMcw1xXRvjRhfOUa-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="79HNaMcw1xXRvjRhfOUa-51" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="79HNaMcw1xXRvjRhfOUa-3" target="79HNaMcw1xXRvjRhfOUa-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="79HNaMcw1xXRvjRhfOUa-3" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wiki.factorio.com/images/thumb/Inserter.png/32px-Inserter.png;" vertex="1" parent="1">
-          <mxGeometry x="230" y="280" width="32" height="32" as="geometry" />
+          <mxGeometry x="760" y="300" width="32" height="32" as="geometry" />
         </mxCell>
         <mxCell id="79HNaMcw1xXRvjRhfOUa-4" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wiki.factorio.com/images/thumb/Long-handed_inserter.png/32px-Long-handed_inserter.png;" vertex="1" parent="1">
-          <mxGeometry x="290" y="282" width="32" height="32" as="geometry" />
+          <mxGeometry x="840" y="220" width="32" height="32" as="geometry" />
         </mxCell>
         <mxCell id="79HNaMcw1xXRvjRhfOUa-5" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wiki.factorio.com/images/thumb/Fast_inserter.png/32px-Fast_inserter.png;" vertex="1" parent="1">
-          <mxGeometry x="350" y="282" width="32" height="32" as="geometry" />
+          <mxGeometry x="840" y="380" width="32" height="32" as="geometry" />
         </mxCell>
         <mxCell id="79HNaMcw1xXRvjRhfOUa-6" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wiki.factorio.com/images/thumb/Assembling_machine_1.png/32px-Assembling_machine_1.png;" vertex="1" parent="1">
           <mxGeometry x="110" y="200" width="32" height="32" as="geometry" />
@@ -28,6 +34,9 @@
         <mxCell id="79HNaMcw1xXRvjRhfOUa-35" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="79HNaMcw1xXRvjRhfOUa-9" target="79HNaMcw1xXRvjRhfOUa-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="79HNaMcw1xXRvjRhfOUa-41" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="79HNaMcw1xXRvjRhfOUa-9" target="79HNaMcw1xXRvjRhfOUa-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="79HNaMcw1xXRvjRhfOUa-9" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wiki.factorio.com/images/thumb/Transport_belt.png/32px-Transport_belt.png;" vertex="1" parent="1">
           <mxGeometry x="670" y="80" width="32" height="32" as="geometry" />
         </mxCell>
@@ -35,16 +44,27 @@
           <mxGeometry x="750" y="80" width="32" height="32" as="geometry" />
         </mxCell>
         <mxCell id="79HNaMcw1xXRvjRhfOUa-11" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wiki.factorio.com/images/thumb/Splitter.png/32px-Splitter.png;" vertex="1" parent="1">
-          <mxGeometry x="262" y="460" width="32" height="32" as="geometry" />
+          <mxGeometry x="760" y="150" width="32" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="79HNaMcw1xXRvjRhfOUa-42" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="79HNaMcw1xXRvjRhfOUa-12" target="79HNaMcw1xXRvjRhfOUa-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="710" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="79HNaMcw1xXRvjRhfOUa-45" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="79HNaMcw1xXRvjRhfOUa-12" target="79HNaMcw1xXRvjRhfOUa-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="79HNaMcw1xXRvjRhfOUa-50" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="79HNaMcw1xXRvjRhfOUa-12" target="79HNaMcw1xXRvjRhfOUa-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="79HNaMcw1xXRvjRhfOUa-12" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wiki.factorio.com/images/thumb/Electronic_circuit.png/32px-Electronic_circuit.png;" vertex="1" parent="1">
-          <mxGeometry x="670" y="348" width="32" height="32" as="geometry" />
+          <mxGeometry x="638" y="428" width="32" height="32" as="geometry" />
         </mxCell>
         <mxCell id="79HNaMcw1xXRvjRhfOUa-37" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="79HNaMcw1xXRvjRhfOUa-13" target="79HNaMcw1xXRvjRhfOUa-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="79HNaMcw1xXRvjRhfOUa-13" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wiki.factorio.com/images/thumb/Copper_plate.png/32px-Copper_plate.png;" vertex="1" parent="1">
-          <mxGeometry x="530" y="282" width="32" height="32" as="geometry" />
+          <mxGeometry x="530" y="440" width="32" height="32" as="geometry" />
         </mxCell>
         <mxCell id="79HNaMcw1xXRvjRhfOUa-15" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wiki.factorio.com/images/thumb/Automation_science_pack.png/32px-Automation_science_pack.png;" vertex="1" parent="1">
           <mxGeometry x="390" y="60" width="32" height="32" as="geometry" />
@@ -89,13 +109,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="79HNaMcw1xXRvjRhfOUa-28" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wiki.factorio.com/images/thumb/Copper_cable.png/32px-Copper_cable.png;" vertex="1" parent="1">
-          <mxGeometry x="590" y="348" width="32" height="32" as="geometry" />
+          <mxGeometry x="590" y="506" width="32" height="32" as="geometry" />
         </mxCell>
         <mxCell id="79HNaMcw1xXRvjRhfOUa-33" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="79HNaMcw1xXRvjRhfOUa-30" target="79HNaMcw1xXRvjRhfOUa-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="79HNaMcw1xXRvjRhfOUa-43" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="79HNaMcw1xXRvjRhfOUa-30" target="79HNaMcw1xXRvjRhfOUa-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="79HNaMcw1xXRvjRhfOUa-47" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="79HNaMcw1xXRvjRhfOUa-30" target="79HNaMcw1xXRvjRhfOUa-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="79HNaMcw1xXRvjRhfOUa-30" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wiki.factorio.com/images/thumb/Iron_gear_wheel.png/32px-Iron_gear_wheel.png;" vertex="1" parent="1">
-          <mxGeometry x="590" y="80" width="32" height="32" as="geometry" />
+          <mxGeometry x="590" y="150" width="32" height="32" as="geometry" />
         </mxCell>
         <mxCell id="79HNaMcw1xXRvjRhfOUa-32" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="79HNaMcw1xXRvjRhfOUa-31" target="79HNaMcw1xXRvjRhfOUa-30">
           <mxGeometry relative="1" as="geometry" />
@@ -109,8 +135,20 @@
         <mxCell id="79HNaMcw1xXRvjRhfOUa-39" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="79HNaMcw1xXRvjRhfOUa-31" target="79HNaMcw1xXRvjRhfOUa-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="79HNaMcw1xXRvjRhfOUa-40" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="79HNaMcw1xXRvjRhfOUa-31" target="79HNaMcw1xXRvjRhfOUa-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="79HNaMcw1xXRvjRhfOUa-44" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="79HNaMcw1xXRvjRhfOUa-31" target="79HNaMcw1xXRvjRhfOUa-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="79HNaMcw1xXRvjRhfOUa-48" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="79HNaMcw1xXRvjRhfOUa-31" target="79HNaMcw1xXRvjRhfOUa-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="79HNaMcw1xXRvjRhfOUa-49" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="79HNaMcw1xXRvjRhfOUa-31" target="79HNaMcw1xXRvjRhfOUa-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="79HNaMcw1xXRvjRhfOUa-31" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wiki.factorio.com/images/thumb/Iron_plate.png/32px-Iron_plate.png;" vertex="1" parent="1">
-          <mxGeometry x="530" y="210" width="32" height="32" as="geometry" />
+          <mxGeometry x="530" y="290" width="32" height="32" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
