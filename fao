@@ -1,1 +1,73 @@
-<mxfile host="app.diagrams.net" modified="2021-06-24T09:38:42.723Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" version="14.7.2" etag="XKVh1HuPWAhnkLZc0ykv" type="github"><diagram id="EHLDbaasvdHuROu6LPL8">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-06-24T09:46:27.550Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="xBxSePsLWWETtPYDN8Py" version="14.7.2" type="github">
+  <diagram id="EHLDbaasvdHuROu6LPL8" name="Page-1">
+    <mxGraphModel dx="946" dy="505" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="79HNaMcw1xXRvjRhfOUa-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wiki.factorio.com/images/thumb/Iron_plate.png/32px-Iron_plate.png;" vertex="1" parent="1">
+          <mxGeometry x="180" y="210" width="32" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="79HNaMcw1xXRvjRhfOUa-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wiki.factorio.com/images/thumb/Iron_gear_wheel.png/32px-Iron_gear_wheel.png;" vertex="1" parent="1">
+          <mxGeometry x="190" y="250" width="32" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="79HNaMcw1xXRvjRhfOUa-3" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wiki.factorio.com/images/thumb/Inserter.png/32px-Inserter.png;" vertex="1" parent="1">
+          <mxGeometry x="230" y="280" width="32" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="79HNaMcw1xXRvjRhfOUa-4" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wiki.factorio.com/images/thumb/Long-handed_inserter.png/32px-Long-handed_inserter.png;" vertex="1" parent="1">
+          <mxGeometry x="290" y="282" width="32" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="79HNaMcw1xXRvjRhfOUa-5" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wiki.factorio.com/images/thumb/Fast_inserter.png/32px-Fast_inserter.png;" vertex="1" parent="1">
+          <mxGeometry x="350" y="282" width="32" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="79HNaMcw1xXRvjRhfOUa-6" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wiki.factorio.com/images/thumb/Assembling_machine_1.png/32px-Assembling_machine_1.png;" vertex="1" parent="1">
+          <mxGeometry x="110" y="200" width="32" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="79HNaMcw1xXRvjRhfOUa-7" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wiki.factorio.com/images/thumb/Pipe.png/32px-Pipe.png;" vertex="1" parent="1">
+          <mxGeometry x="212" y="370" width="32" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="79HNaMcw1xXRvjRhfOUa-8" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wiki.factorio.com/images/thumb/Pipe_to_ground.png/32px-Pipe_to_ground.png;" vertex="1" parent="1">
+          <mxGeometry x="260" y="380" width="32" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="79HNaMcw1xXRvjRhfOUa-9" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wiki.factorio.com/images/thumb/Transport_belt.png/32px-Transport_belt.png;" vertex="1" parent="1">
+          <mxGeometry x="160" y="460" width="32" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="79HNaMcw1xXRvjRhfOUa-10" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wiki.factorio.com/images/thumb/Underground_belt.png/32px-Underground_belt.png;" vertex="1" parent="1">
+          <mxGeometry x="210" y="460" width="32" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="79HNaMcw1xXRvjRhfOUa-11" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wiki.factorio.com/images/thumb/Splitter.png/32px-Splitter.png;" vertex="1" parent="1">
+          <mxGeometry x="262" y="460" width="32" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="79HNaMcw1xXRvjRhfOUa-12" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wiki.factorio.com/images/thumb/Electronic_circuit.png/32px-Electronic_circuit.png;" vertex="1" parent="1">
+          <mxGeometry x="110" y="340" width="32" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="79HNaMcw1xXRvjRhfOUa-13" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wiki.factorio.com/images/thumb/Copper_plate.png/32px-Copper_plate.png;" vertex="1" parent="1">
+          <mxGeometry x="220" y="140" width="32" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="79HNaMcw1xXRvjRhfOUa-14" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wiki.factorio.com/images/thumb/Copper_cable.png/32px-Copper_cable.png;" vertex="1" parent="1">
+          <mxGeometry x="280" y="150" width="32" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="79HNaMcw1xXRvjRhfOUa-15" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wiki.factorio.com/images/thumb/Automation_science_pack.png/32px-Automation_science_pack.png;" vertex="1" parent="1">
+          <mxGeometry x="390" y="60" width="32" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="79HNaMcw1xXRvjRhfOUa-16" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wiki.factorio.com/images/thumb/Stack_inserter.png/32px-Stack_inserter.png;" vertex="1" parent="1">
+          <mxGeometry x="410" y="280" width="32" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="79HNaMcw1xXRvjRhfOUa-17" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wiki.factorio.com/images/thumb/Fast_transport_belt.png/32px-Fast_transport_belt.png;" vertex="1" parent="1">
+          <mxGeometry x="160" y="518" width="32" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="79HNaMcw1xXRvjRhfOUa-18" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wiki.factorio.com/images/thumb/Express_transport_belt.png/32px-Express_transport_belt.png;" vertex="1" parent="1">
+          <mxGeometry x="160" y="570" width="32" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="79HNaMcw1xXRvjRhfOUa-19" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wiki.factorio.com/images/thumb/Fast_underground_belt.png/32px-Fast_underground_belt.png;" vertex="1" parent="1">
+          <mxGeometry x="262" y="518" width="32" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="79HNaMcw1xXRvjRhfOUa-21" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wiki.factorio.com/images/thumb/Fast_splitter.png/32px-Fast_splitter.png;" vertex="1" parent="1">
+          <mxGeometry x="210" y="520" width="32" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="79HNaMcw1xXRvjRhfOUa-22" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wiki.factorio.com/images/thumb/Logistic_science_pack_%28research%29.png/32px-Logistic_science_pack_%28research%29.png;" vertex="1" parent="1">
+          <mxGeometry x="430" y="60" width="32" height="32" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
